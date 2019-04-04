@@ -1,7 +1,7 @@
 # ovirt_vm_lister
 super simple lister of vms in an ovirt cluster
 
-`Variables in script that need change`
+`Variables in script that need change`  
 ovirtusername='changeme'  
 ovirtpassword='changeme'  
 ovirthost='changeme01.tld.com'  
